@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\bin\Debug\net8.0\VehicleTelemetry.Messaging.deps.json
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\bin\Debug\net8.0\VehicleTelemetry.Messaging.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\bin\Debug\net8.0\VehicleTelemetry.Messaging.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\bin\Debug\net8.0\VehicleTelemetry.Domain.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\bin\Debug\net8.0\VehicleTelemetry.Domain.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleT.C5581747.Up2Date
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\refint\VehicleTelemetry.Messaging.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\VehicleTelemetry.Messaging.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Messaging\obj\Debug\net8.0\ref\VehicleTelemetry.Messaging.dll

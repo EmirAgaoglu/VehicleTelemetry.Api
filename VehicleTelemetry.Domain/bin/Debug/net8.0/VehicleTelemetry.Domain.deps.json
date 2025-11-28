@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VehicleTelemetry.Domain/1.0.0": {
+        "runtime": {
+          "VehicleTelemetry.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleTelemetry.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

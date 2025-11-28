@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\bin\Debug\net8.0\VehicleTelemetry.Data.deps.json
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\bin\Debug\net8.0\VehicleTelemetry.Data.runtimeconfig.json
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\bin\Debug\net8.0\VehicleTelemetry.Data.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\bin\Debug\net8.0\VehicleTelemetry.Data.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\bin\Debug\net8.0\VehicleTelemetry.Domain.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\bin\Debug\net8.0\VehicleTelemetry.Domain.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleT.3FA8F584.Up2Date
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\refint\VehicleTelemetry.Data.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\VehicleTelemetry.Data.genruntimeconfig.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Data\obj\Debug\net8.0\ref\VehicleTelemetry.Data.dll

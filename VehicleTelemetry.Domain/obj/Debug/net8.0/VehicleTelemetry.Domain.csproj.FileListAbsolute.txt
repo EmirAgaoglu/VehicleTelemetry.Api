@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\bin\Debug\net8.0\VehicleTelemetry.Domain.deps.json
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\bin\Debug\net8.0\VehicleTelemetry.Domain.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\bin\Debug\net8.0\VehicleTelemetry.Domain.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\VehicleTelemetry.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\VehicleTelemetry.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\VehicleTelemetry.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\VehicleTelemetry.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\VehicleTelemetry.Domain.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\refint\VehicleTelemetry.Domain.dll
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\VehicleTelemetry.Domain.pdb
+C:\Users\DELL\source\repos\VehicleTelemetry.Api\VehicleTelemetry.Domain\obj\Debug\net8.0\ref\VehicleTelemetry.Domain.dll
